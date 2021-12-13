@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "io",
+    "name": "Venny Labs I/O",
+    "description": "Venny Labs boilerplate mobile development template.",
     "slug": "io",
     "version": "1.0.0",
     "orientation": "portrait",
