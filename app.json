@@ -28,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "githubUrl": "https://github.com/withvenny/venny-apps-io-reactnative"
   }
 }
